@@ -1,0 +1,2 @@
+LabStat is going to be an Alexa Skill that can tell the user the operational status of MIT Lincoln Laboratory. The skill will be developed as a Flash Briefing skill. The Flash Briefing Skill doesn't allow for much flexibility but comes with a pre built "interaction model" which makes it much easier for first time Alexa Skill developers which I am. Also, developing a Flash Briefing Skill does not require buying any additional hosting service which is also important.
+
